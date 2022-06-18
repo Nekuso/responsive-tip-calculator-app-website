@@ -56,9 +56,9 @@ costumBtn.addEventListener("keyup", e => {
 });
 
 reset.addEventListener('click', () => {
-    billInput.value = "0"
-    peopleInput.value = "0"
-    costumBtn.value = "0"
+    billInput.value = ""
+    peopleInput.value = ""
+    costumBtn.value = ""
     tipResult.innerText = "$" + "0";
     totalResult.innerText = "$" + "0";
 })
