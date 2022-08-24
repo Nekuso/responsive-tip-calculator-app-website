@@ -7,4 +7,5 @@
 - See hover states for all interactive elements on the page
 - Calculate the correct tip and total cost of the bill per person
 
+
 ![preview img](/preview.png)
